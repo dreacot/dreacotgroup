@@ -1,0 +1,48 @@
+.sidebar .menu {
+    background: #333 !important;
+}
+
+.sidebar .menu .list a {
+    color: #ccc !important;
+ 
+}
+
+.theme-red .sidebar .menu .list li.active > :first-child i, .theme-red .sidebar .menu .list li.active > :first-child span {
+    color: #ccc !important;
+}
+
+.sidebar .menu .list a span {
+    color: #ccc !important;
+    
+}
+
+.sidebar .menu .list .header {
+    background: #666 !important;
+    color: white !important;
+}
+
+.theme-red .sidebar .legal {
+    background-color: #666 !important;
+    color: white !important;
+}
+
+.theme-red .sidebar .legal .copyright a {
+    color: #ccc !important ;
+}
+
+.theme-red .sidebar .menu .list li.active {
+    background-color: steelblue !important;
+}
+
+.sidebar .user-info {
+
+    background: #333 !important;
+}
+
+
+
+
+
+
+
+
