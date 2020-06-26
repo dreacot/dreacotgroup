@@ -428,7 +428,7 @@ img:hover{
             <div class="hero-content">
 
                 <div class="hero-title">
-                    <h1 class="divider divider-center">Test Affordable Bespoke Website Design</h1>
+                    <h1 class="divider divider-center">Affordable Bespoke Website Design</h1>
                 </div>
                 <h6>Make us your partner today</h6>
                 
